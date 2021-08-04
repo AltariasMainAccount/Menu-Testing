@@ -1,3 +1,5 @@
+//YEET
+
 module.exports = {
     menu1: [
         a1 = function() {

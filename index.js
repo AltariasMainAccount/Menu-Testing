@@ -1,3 +1,5 @@
+// LOLOLOLOL
+
 const readline = require('readline');
 const mr = require ('./structure/menuRender.js');
 const mls = require ('./structure/multi_line_strings.js');

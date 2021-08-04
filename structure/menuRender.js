@@ -1,7 +1,7 @@
 /*
     Independent Menu Render Magic
     
-    Creator: Altarias
+    Creator: Altarias (cursed)
     Creator Contact: Altar#8020 (Discord)
 
     Description: 
